@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "freedb_muhammadxoja",
+    "password": "mu@yJzH8rRYA&2D",
+    "database": "freedb_coursework",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "freedb_muhammadxoja",
+    "password": "mu@yJzH8rRYA&2D",
+    "database": "freedb_coursework",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  }
+}
